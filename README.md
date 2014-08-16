@@ -10,8 +10,8 @@ To install Wall-E, simply place the **.wall-e.cnf** configuration file in your u
 
 Wall-E uses json for its configuration, so it is very simple to setup.  There are only 2 configuration options:
 
-* **Path** - The folder containing the wallpapers.
-* **Minutes** - The duration, in minutes, between each wallpaper change.
+* **path** - The folder containing the wallpapers.
+* **minutes** - The duration, in minutes, between each wallpaper change.
 
 Lastly, run Wall-E!  This can be achieved by doing the following:
 
